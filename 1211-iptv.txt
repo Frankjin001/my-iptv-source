@@ -1,0 +1,38 @@
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1" group-title="IPV6·央视",CCTV1
+http://111.13.111.242/000000001000PLTV/88888888/224/3221236219/1.m3u8?HlsProfileId=
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV2" tvg-id="CCTV2" tvg-name="CCTV2" group-title="IPV6·央视",CCTV2
+http://111.13.111.242/000000001000PLTV/88888888/224/3221235743/1.m3u8?HlsProfileId=
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV3" tvg-id="CCTV3" tvg-name="CCTV3" group-title="IPV6·央视",CCTV3
+http://61.169.37.218:9901/tsfile/live/0003_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV4" tvg-id="CCTV4" tvg-name="CCTV4" group-title="IPV6·央视",CCTV4
+http://111.13.111.242/000000001000PLTV/88888888/224/3221236202/1.m3u8?HlsProfileId=
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="IPV6·央视",CCTV5
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5+" tvg-name="CCTV5+" group-title="IPV6·央视",CCTV5+
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV16" tvg-id="CCTV16" tvg-name="CCTV16" group-title="IPV6·央视",CCTV16
+https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV6" tvg-id="CCTV6" tvg-name="CCTV6" group-title="IPV6·央视",CCTV6
+http://61.169.37.218:9901/tsfile/live/0006_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV7" tvg-id="CCTV7" tvg-name="CCTV7" group-title="IPV6·央视",CCTV7
+http://111.13.111.242/000000001000PLTV/88888888/224/3221235759/1.m3u8?HlsProfileId=
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV8" tvg-id="CCTV8" tvg-name="CCTV8" group-title="IPV6·央视",CCTV8
+http://61.169.37.218:9901/tsfile/live/0008_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV9" tvg-id="CCTV9" tvg-name="CCTV9" group-title="IPV6·央视",CCTV9
+http://111.13.111.242/000000001000PLTV/88888888/224/3221235767/1.m3u8?HlsProfileId=
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV10" tvg-id="CCTV10" tvg-name="CCTV10" group-title="IPV6·央视",CCTV10
+http://61.169.37.218:9901/tsfile/live/0010_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV11" tvg-id="CCTV11" tvg-name="CCTV11" group-title="IPV6·央视",CCTV11
+http://111.13.111.242/000000001000PLTV/88888888/224/3221236200/1.m3u8?HlsProfileId=
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV12" tvg-id="CCTV12" tvg-name="CCTV12" group-title="IPV6·央视",CCTV12
+http://111.13.111.242/000000001000PLTV/88888888/224/3221235735/1.m3u8?HlsProfileId=
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV13" tvg-id="CCTV13" tvg-name="CCTV13" group-title="IPV6·央视",CCTV13
+http://111.13.111.242/000000001000PLTV/88888888/224/3221236187/1.m3u8?HlsProfileId=
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV14" tvg-id="CCTV14" tvg-name="CCTV14" group-title="IPV6·央视",CCTV14
+http://111.13.111.242/000000001000PLTV/88888888/224/3221235776/1.m3u8?HlsProfileId=
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV15" tvg-id="CCTV15" tvg-name="CCTV15" group-title="IPV6·央视",CCTV15
+http://111.13.111.242/000000001000PLTV/88888888/224/3221236203/1.m3u8?HlsProfileId=
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV17" tvg-id="CCTV17" tvg-name="CCTV17" group-title="IPV6·央视",CCTV17
+http://111.13.111.242/000000001000PLTV/88888888/224/3221236190/1.m3u8?HlsProfileId=
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CGTN" tvg-id="CGTN" tvg-name="CGTN" group-title="IPV6·央视",CGTN
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
