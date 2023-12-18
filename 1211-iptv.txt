@@ -17,7 +17,11 @@ http://61.169.37.218:9901/tsfile/live/0006_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV7" tvg-id="CCTV7" tvg-name="CCTV7" group-title="IPV6·央视",CCTV7
 http://111.13.111.242/000000001000PLTV/88888888/224/3221235759/1.m3u8?HlsProfileId=
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV8" tvg-id="CCTV8" tvg-name="CCTV8" group-title="IPV6·央视",CCTV8
-http://61.169.37.218:9901/tsfile/live/0008_1.m3u8?key=txiptv
+http://cfss.cc/api/ysp/cctv8.m3u8
+
+##http://61.169.37.218:9901/tsfile/live/0008_1.m3u8?key=txiptv  ##this is for CCTV8, changed on 1218
+
+
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV9" tvg-id="CCTV9" tvg-name="CCTV9" group-title="IPV6·央视",CCTV9
 http://111.13.111.242/000000001000PLTV/88888888/224/3221235767/1.m3u8?HlsProfileId=
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV10" tvg-id="CCTV10" tvg-name="CCTV10" group-title="IPV6·央视",CCTV10
